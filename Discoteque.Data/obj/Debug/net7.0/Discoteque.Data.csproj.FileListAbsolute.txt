@@ -1,0 +1,12 @@
+/Users/mariacamilachicagomez/Desktop/Discoteque/Discoteque.Data/bin/Debug/net7.0/Discoteque.Data.deps.json
+/Users/mariacamilachicagomez/Desktop/Discoteque/Discoteque.Data/bin/Debug/net7.0/Discoteque.Data.dll
+/Users/mariacamilachicagomez/Desktop/Discoteque/Discoteque.Data/bin/Debug/net7.0/Discoteque.Data.pdb
+/Users/mariacamilachicagomez/Desktop/Discoteque/Discoteque.Data/obj/Debug/net7.0/Discoteque.Data.csproj.AssemblyReference.cache
+/Users/mariacamilachicagomez/Desktop/Discoteque/Discoteque.Data/obj/Debug/net7.0/Discoteque.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariacamilachicagomez/Desktop/Discoteque/Discoteque.Data/obj/Debug/net7.0/Discoteque.Data.AssemblyInfoInputs.cache
+/Users/mariacamilachicagomez/Desktop/Discoteque/Discoteque.Data/obj/Debug/net7.0/Discoteque.Data.AssemblyInfo.cs
+/Users/mariacamilachicagomez/Desktop/Discoteque/Discoteque.Data/obj/Debug/net7.0/Discoteque.Data.csproj.CoreCompileInputs.cache
+/Users/mariacamilachicagomez/Desktop/Discoteque/Discoteque.Data/obj/Debug/net7.0/Discoteque.Data.dll
+/Users/mariacamilachicagomez/Desktop/Discoteque/Discoteque.Data/obj/Debug/net7.0/refint/Discoteque.Data.dll
+/Users/mariacamilachicagomez/Desktop/Discoteque/Discoteque.Data/obj/Debug/net7.0/Discoteque.Data.pdb
+/Users/mariacamilachicagomez/Desktop/Discoteque/Discoteque.Data/obj/Debug/net7.0/ref/Discoteque.Data.dll
